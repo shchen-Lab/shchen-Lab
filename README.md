@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shchen-Lab
-- 👀 I’m interested in IOT development：bluetooth zigbee wifi .....
+- 👀 I’m interested in IOT development：bluetooth zigbee wifi matter .....
 - 📫 How to reach me : alvin9527chen@gmail.com
 
 <!---
